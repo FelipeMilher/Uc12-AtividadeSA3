@@ -1,0 +1,213 @@
+.Parte-de-cima{
+    background-image: url('C:\Users\zfeli\OneDrive\Área de Trabalho\GameMania_Angular\GameManiaAngular\src\assets\img\Banner adptado.png');
+    max-height: 500%;
+    background-size: cover;
+    padding-bottom: 20%;
+    margin-top: -1%;
+    margin-left: -1%;
+}
+.header-1 {
+    width: 100%;
+}
+.logo {
+    float: left;
+    padding: 15px;
+    width: 50%;
+    display: flex;
+}
+.Game-Mania{
+    margin-left: 7%;
+    margin-top: 6%;
+}
+.redes-sociais ul li {
+    display: inline;
+    float: right;
+    margin: 1%;
+}
+.redes-sociais{
+    width: 100%;
+    height: 86px;
+}
+.icone {
+    -webkit-filter: grayscale(100%);
+    max-width: 60%;
+}
+.Departamento{
+    width: 70%;
+}
+.Departamento ul li {
+    left: 5%;
+    bottom: 7%;
+    display: inline-block;
+    color: #FFFFFF;
+    margin-top: 2%;
+}
+.Departamento ul li a:hover{
+    color: #E41616;
+}
+.Departamento ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.Gamer {
+    margin-right: 10%;
+    display: flex;
+}
+
+.Gamer a:hover{
+    color: #E41616;
+}
+.Gamer a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 20%;
+}
+#imagem-gamer {
+    float: left;
+    width: 80%;
+    height: 80%;
+}
+.Carrinho {
+    margin-right: 3%;
+}
+.Carrinho ul li {
+    right: 2%;
+    bottom: 2%;
+    display: inline-block;
+    color: #FFFFFF;
+}
+.Carrinho ul li a:hover{
+    color: #E41616;
+}
+.Carrinho ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.Pesquisa {
+    text-align: center;
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin-top: 13%;
+}
+.Pesquisa input {
+    background-image: url('C:\Users\zfeli\OneDrive\Área de Trabalho\GameMania_Angular\GameManiaAngular\src\assets\img\Pesquisa.png');
+    background-repeat: no-repeat;
+    background-position: right ;
+    width: 400px;
+    height: 50px;
+}
+.header-2 {
+    background-color: #E41616;
+    padding-bottom: 1%;
+}
+.Botoes{
+    display: flex;
+    margin-top: -10%;
+    width: 100%;
+    justify-content: center;
+}
+.Imagem{
+    max-width: 100%;
+    background-size: cover;
+    
+    
+}
+main{
+    background-image: url('C:\Users\zfeli\OneDrive\Área de Trabalho\GameMania_Angular\GameManiaAngular\src\assets\img\Fundo da parte das compras.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -2.4%;
+    justify-content: center;
+    align-items: center;
+}
+.titulo-1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 200%;
+    padding: 5%;
+}
+.Carrosel-1{
+    display: flex;
+    justify-content: center;
+}
+.Carrosel-1 img {
+    margin: 3%;
+}
+.titulo-2 {
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 200%;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.Carrosel-2{
+    display: flex;
+    justify-content: center;
+}
+.Carrosel-2 img {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+}
+.titulo-3 {
+    text-align: left;
+    color: #E41616;
+    font-size: 200%;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.Carrosel-3{
+    display: flex;
+    justify-content: center;
+}
+.Carrosel-3 img {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    border-radius: 50px;
+}
+footer {
+    background-image: url('C:\Users\zfeli\OneDrive\Área de Trabalho\GameMania_Angular\GameManiaAngular\src\assets\img\parte final site.png');
+}
+.informacoes {
+    display: flex;
+    justify-content: center;
+
+}
+.titulo-divisao{
+    color: #E41616;
+    font-size: 150%;
+}
+.texto-divisao {
+    color: #FFFFFF;
+    -webkit-transition: all 0.4s;
+}
+.texto-divisao:hover{
+    color: #E41616;
+}
+.divisao{
+    margin-right: 6%;
+    margin-left: 2%;
+}
+.parte-de-baixo {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+.pagamentos {
+    float: right;
+    margin-left: 40%;
+}
+button.slick-prev {
+    border: none;
+}
+#header-3 a{
+    color: black;
+}
